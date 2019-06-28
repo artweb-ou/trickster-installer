@@ -4,6 +4,5 @@
 	'mysqlDatabase' => '',
 	'mysqlHost' => '',
 	'mysqlTablesPrefix' => 'engine_',
-	'module' => 'pdoTransport',
 	'mysqlConnectionEncoding' => 'utf8',
 ];
