@@ -1,6 +1,6 @@
 <?php
 
-class projectDocumentDesignTheme extends designTheme
+class projectDocumentDesignTheme extends DesignTheme
 {
     use InheritedThemesTrait;
 

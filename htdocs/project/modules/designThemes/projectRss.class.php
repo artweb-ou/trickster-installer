@@ -1,6 +1,6 @@
 <?php
 
-class projectRssDesignTheme extends designTheme
+class projectRssDesignTheme extends DesignTheme
 {
     use InheritedThemesTrait;
 

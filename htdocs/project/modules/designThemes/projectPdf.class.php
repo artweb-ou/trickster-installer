@@ -1,6 +1,6 @@
 <?php
 
-class projectPdfDesignTheme extends designTheme
+class projectPdfDesignTheme extends DesignTheme
 {
     use InheritedThemesTrait;
 
