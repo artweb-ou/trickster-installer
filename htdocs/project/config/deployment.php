@@ -622,6 +622,11 @@
         ],
         [
             'type' => 'mall',
+            'version' => '1.0.0',
+            'description' => '',
+        ],
+        [
+            'type' => 'mall',
             'version' => '1.0.1',
             'description' => '',
         ],
