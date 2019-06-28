@@ -1,0 +1,8 @@
+{
+  "name": "artweb-ou/project",
+  "description": "Trickster CMS based project",
+  "license": "proprietary",
+  "require": {
+    "artweb-ou/trickster-cms": "^3.0"
+  }
+}
