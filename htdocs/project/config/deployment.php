@@ -114,76 +114,6 @@
 			'description' => 'Nupud dashboardi kokkuvõtva ifo juures, mis viivad täpsemalt pikemale nimekirjale',
 		],
 		[
-			'type' => 'cms_db',
-			'version' => '1.0.0',
-			'description' => 'cms database: tables',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.1',
-			'description' => 'cms database: basic untranslated structure',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.2',
-			'description' => 'cms database: structure titles modifications, translations, privileges',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.3',
-			'description' => 'translations, 404 log',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.4',
-			'description' => 'translations, database changes and user privileges',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.5',
-			'description' => 'missing privileges for system, users manager',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.6',
-			'description' => 'New user privileges. (Mantis:0003087)',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.7',
-			'description' => 'Deployments element',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.8',
-			'description' => 'Login module table added, duplicates removal, privileges for logViewer and translationsExport',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.9',
-			'description' => 'New translations',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.10',
-			'description' => 'Registration fields',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.11',
-			'description' => 'Translations - r16277',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.12',
-			'description' => 'New translations',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.13',
-			'description' => 'More translations',
-		],
-		[
 			'type' => 'homepage',
 			'version' => '1.0.0',
 			'description' => 'homepage package files: rev.11666',
@@ -391,183 +321,6 @@
 		- Uudiskirjaga liitumise vorm on kindlam botide/häkkerite vastu',
 		],
 		[
-			'type' => 'homepage_db',
-			'version' => '1.0.0',
-			'description' => 'homepage database: tables',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.1',
-			'description' => 'homepage database: basic untranslated structure',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.0',
-			'description' => 'ecommerce database: tables',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.1',
-			'description' => 'ecommerce database: basic untranslated structure',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.2',
-			'description' => 'ecommerce database: fulltext search',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.3',
-			'description' => 'ecommerce database: product files upload translations',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.4',
-			'description' => 'translations',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.5',
-			'description' => 'Missing privileges for catalogue managers',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.6',
-			'description' => 'category, selected products changes, products gallery',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.7',
-			'description' => 'Database changes to selected products',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.8',
-			'description' => 'Categories layouts, discount\'s fixed price',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.9',
-			'description' => 'Privileges for category mobile layout, table changes for products amount on page, product units, discounts in basket',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.10',
-			'description' => 'DB changes',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.11',
-			'description' => 'New tranaslations',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.12',
-			'description' => 'Translations - r16277',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.13',
-			'description' => 'Various changes',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.14',
-			'description' => '- Delivery type now can have "empty" price, which would mean that it\'s price won\'t be displayed anywhere
-		- Täiendatud süsteemi tõlked',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.2',
-			'description' => 'homepage database: newsmails subcontent',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.3',
-			'description' => 'homepage database: fulltext search',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.4',
-			'description' => 'DB changes for file structure element',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.5',
-			'description' => 'translations, newsmail privileges, gallery changes',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.6',
-			'description' => 'database changes and user privileges',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.7',
-			'description' => 'missing privileges for documents manager',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.8',
-			'description' => 'Link list, folder, personnellist layouts, eventslist mode',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.9',
-			'description' => 'personnel list status field, feedback answers privileges',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.10',
-			'description' => 'map image delete privileges',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.11',
-			'description' => 'LatestNews implements Layoutsmanager, Database changes to selected events and eventslist, 404 log update',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.12',
-			'description' => 'Latest news ordering, newsmails extra fields',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.13',
-			'description' => 'Comments related changes',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.14',
-			'description' => 'Eventslist/selected events extra date, sorting columns, newsmails subcontent fields, comments element',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.15',
-			'description' => 'DB changes',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.16',
-			'description' => 'New translations',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.17',
-			'description' => 'Translations, misc - r16277',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.18',
-			'description' => 'Various changes',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.19',
-			'description' => '- Lisatud tõlked
-		- Täiendatud süsteemi tõlked',
-		],
-		[
 			'type' => 'standardDesign',
 			'version' => '1.0.0',
 			'description' => 'standardDesign package files: rev.11666',
@@ -653,11 +406,6 @@
 			'description' => '',
 		],
 		[
-			'type' => 'cms_db',
-			'version' => '1.0.14',
-			'description' => '',
-		],
-		[
 			'type' => 'ecommerce',
 			'version' => '1.0.17',
 			'description' => '',
@@ -675,21 +423,6 @@
 		[
 			'type' => 'ecommerce',
 			'version' => '1.0.20',
-			'description' => '',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.15',
-			'description' => '',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.16',
-			'description' => '',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.17',
 			'description' => '',
 		],
 		[
@@ -715,31 +448,6 @@
 		[
 			'type' => 'homepage',
 			'version' => '1.0.26',
-			'description' => '',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.20',
-			'description' => '',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.21',
-			'description' => '',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.22',
-			'description' => '',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.23',
-			'description' => 'Linklistitem highlighting, reg fields adding',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.24',
 			'description' => '',
 		],
 		[
@@ -910,21 +618,6 @@
 		[
 			'type' => 'standardDesign',
 			'version' => '1.0.15',
-			'description' => '',
-		],
-		[
-			'type' => 'cms_db',
-			'version' => '1.0.22',
-			'description' => '',
-		],
-		[
-			'type' => 'ecommerce_db',
-			'version' => '1.0.28',
-			'description' => '',
-		],
-		[
-			'type' => 'homepage_db',
-			'version' => '1.0.32',
 			'description' => '',
 		],
 	],

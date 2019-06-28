@@ -12,5 +12,5 @@
 	'publicTheme' => 'project',
 	'mobileTheme' => 'projectMobile',
 	'protocol' => 'http://',
-	'installProgress' => 2,
+	'installProgress' => 0,
 ];
